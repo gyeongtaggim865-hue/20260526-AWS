@@ -20,7 +20,7 @@ repositories {
 
 dependencies {
 	implementation("io.awspring.cloud:spring-cloud-aws-starter-s3:4.0.2")
-	
+
 	implementation("org.springframework.boot:spring-boot-starter")
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	implementation("org.springframework.boot:spring-boot-starter-webmvc")
